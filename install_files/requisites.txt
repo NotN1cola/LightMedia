@@ -1,0 +1,4 @@
+mutagen
+pygame
+yt_dlp
+pysondb-v2
